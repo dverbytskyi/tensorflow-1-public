@@ -26,6 +26,7 @@ def house_model():
     ### END CODE HERE
     return model
 
+
 # Get your trained model
 model = house_model()
 
